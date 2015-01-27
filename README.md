@@ -45,3 +45,8 @@ Questions? Email <geracam@mit.edu>.
 
 
 > “What separates design from art is that design is meant to be... functional.” -Cameron Moll
+
+#### Pictures
+
+![it sucks i know](http://i.imgur.com/qCgLTLP.png)
+
